@@ -9,3 +9,9 @@ arrays[0]
 arrays[2]
 
 puts arrays
+
+locations = ["Rome", "Paris", "London" , "New York", "Los Angeles"]
+
+locations.pop
+
+puts locations
